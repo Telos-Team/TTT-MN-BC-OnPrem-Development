@@ -21,7 +21,7 @@
   },
   "target": "Internal",
   "showMyCode": true,
-  "runtime": "2.3",
+  "runtime": "2.1",
   "features": [
     "TranslationFile"
   ]
