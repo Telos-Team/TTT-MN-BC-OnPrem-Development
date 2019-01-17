@@ -6,6 +6,8 @@ tableextension 51700 TTTMNCustExt extends Customer
         {
             DataClassification = CustomerContent;
             Caption = 'MN-ID';
+            TableRelation = TTTMNIdentification.TTTMNCode;
+            ValidateTableRelation = true;
         }
         field(51701; "TTTMN Descr"; Text[30]) 
         {

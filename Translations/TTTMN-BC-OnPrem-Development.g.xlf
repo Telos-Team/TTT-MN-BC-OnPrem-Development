@@ -3,6 +3,31 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="TTTMN-BC-OnPrem-Development">
     <body>
       <group id="body">
+        <trans-unit id="Table 2513561615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MN-Identification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTMNIdentification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2513561615 - Field 1624636902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTMNIdentification - Field TTTMNCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2513561615 - Field 2121655164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTMNIdentification - Field TTTMNName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3756645817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MN-Identification List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTMNIdentificationList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3756645817 - Control 2379750307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTMNIdentificationList - Control TTTMNGeneral - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1281553589 - Control 1098567670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MN-ID</source>
           <note from="Developer" annotates="general" priority="2"></note>
