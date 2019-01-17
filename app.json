@@ -1,0 +1,28 @@
+{
+  "id": "f860c814-8256-4feb-ad41-5fa1e9d597f6",
+  "name": "TTTMN-BC-OnPrem-Development",
+  "publisher": "TelosTeam",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./res/ExtensionLogo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 51700,
+    "to": 51749
+  },
+  "target": "Internal",
+  "showMyCode": true,
+  "runtime": "2.3",
+  "features": [
+    "TranslationFile"
+  ]
+}

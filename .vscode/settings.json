@@ -1,0 +1,11 @@
+{
+    "al.packageCachePath": "./.alpackages",
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${AppSourceCop}",
+        //"${PerTenantExtensionCop}",
+        "${UICop}"
+    ],
+    "editor.formatOnSave": true
+}
