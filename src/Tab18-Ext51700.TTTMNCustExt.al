@@ -2,7 +2,7 @@ tableextension 51700 TTTMNCustExt extends Customer
 {
     fields
     {
-        field(51700; "TTTMN ID"; Code[10]) 
+        field(51700; "TTTMN ID"; Code[20]) 
         {
             DataClassification = CustomerContent;
             Caption = 'MN-ID';
